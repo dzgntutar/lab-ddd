@@ -1,0 +1,15 @@
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\bin\Debug\net6.0\Order.Application.deps.json
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\bin\Debug\net6.0\Order.Application.dll
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\bin\Debug\net6.0\Order.Application.pdb
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.csproj.AssemblyReference.cache
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfoInputs.cache
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.AssemblyInfo.cs
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CoreCompileInputs.cache
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.dll
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\refint\Order.Application.dll
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.pdb
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\ref\Order.Application.dll
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\bin\Debug\net6.0\Order.Domain.dll
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\bin\Debug\net6.0\Order.Domain.pdb
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Application\obj\Debug\net6.0\Order.Application.csproj.CopyComplete
