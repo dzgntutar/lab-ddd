@@ -14,7 +14,6 @@ namespace Order.Domain.AggregateModels.OrderModels
 
         public string Description { get; private set; }
 
-
         public string UserName { get; private set; }
 
         public string OrderStatus { get; private set; }
@@ -44,9 +43,14 @@ namespace Order.Domain.AggregateModels.OrderModels
 
         public void AddOrderItem(int quantity, decimal price, int productId)
         {
-            OrderItem item = new(quantity, price, productId);
+            if (!OrderItems.Any(x => x.ProductId == productId)){
 
-            OrderItems.Add(item);
+                OrderItem item = new(quantity, price, productId);
+
+                OrderItems.Add(item);
+            }
         }
+
+        public decimal GetTotalPrice() => OrderItems.Sum(x => x.Price);
     }
 }

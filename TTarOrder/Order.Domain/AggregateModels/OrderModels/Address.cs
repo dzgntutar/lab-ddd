@@ -9,9 +9,15 @@ namespace Order.Domain.AggregateModels.OrderModels
 {
     public class Address : ValueObject
     {
-        public string City { get; set; }
+        public string City { get; private set; }
 
-        public string Country { get; set; }
+        public string Country { get; private set; }
+
+        public Address(string city, string country)
+        {
+            City = city;
+            Country = country;
+        }
 
         protected override IEnumerable<object> GetEqualityComponents()
         {
