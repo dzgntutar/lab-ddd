@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Order.Application.DomainEventHandlers
 {
-    internal class OrderStartedDomainEventHandler : INotificationHandler<OrderStartedDomainEvent>
+    public class OrderStartedDomainEventHandler : INotificationHandler<OrderStartedDomainEvent>
     {
         private readonly IBuyerRepository buyerRepository;
 

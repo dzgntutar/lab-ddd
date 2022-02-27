@@ -15,3 +15,5 @@ C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Infrastructure\bin\Debug\net6.0\Order
 C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Infrastructure\bin\Debug\net6.0\Order.Application.pdb
 C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Infrastructure\bin\Debug\net6.0\Order.Domain.pdb
 C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Infrastructure\obj\Debug\net6.0\Order.Infrastructure.csproj.CopyComplete
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Infrastructure\bin\Debug\net6.0\Order.Infrastructure.runtimeconfig.json
+C:\Users\dzgn\Projects\DDD\TTarOrder\Order.Infrastructure\obj\Debug\net6.0\Order.Infrastructure.genruntimeconfig.cache
