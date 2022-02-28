@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Order.Domain.Repository
+namespace Order.Application.Repository
 {
     public class IBuyerRepository : IRepository
     {

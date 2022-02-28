@@ -1,7 +1,7 @@
 ﻿using MediatR;
+using Order.Application.Repository;
 using Order.Domain.AggregateModels.BuyerModels;
 using Order.Domain.Events;
-using Order.Domain.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
